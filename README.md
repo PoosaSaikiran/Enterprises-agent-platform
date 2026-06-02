@@ -7,6 +7,6 @@ tttt
 ttt
 tttt
 ttttt
-ttt
+tttt
 tttttt
 t
