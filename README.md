@@ -6,6 +6,6 @@ ewss
 e
 essss
 ews
-sws
+swss
 s
 s
