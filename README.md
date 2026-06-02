@@ -6,4 +6,4 @@ ew
 e
 e
 ew
-sw
+sws
