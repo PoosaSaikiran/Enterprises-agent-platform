@@ -1,11 +1,2 @@
 #Enterprises-agent-platforms
-sd
-e
-et
-ft
-ddtt
-dttt
-ttt
-t
-t
-t
+
