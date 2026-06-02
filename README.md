@@ -1,12 +1,1 @@
-t#Enterprises-agent-platforms
-t
-t
-tt
-tt
-tttt
-ttt
-tttt
-tttttt
-ttttt
-tttttt
-t
+#Enterprises-agent-platforms
