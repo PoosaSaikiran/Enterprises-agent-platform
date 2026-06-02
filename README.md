@@ -7,5 +7,5 @@ ttt
 t
 t
 ttttt
-ttttt
+tttttt
 t
