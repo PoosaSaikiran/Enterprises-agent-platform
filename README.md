@@ -7,7 +7,7 @@ ttt
 ttt
 tt
 tttttt
-ttttttt
+tttttttt
 t
 t
 t
