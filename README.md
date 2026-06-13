@@ -6,5 +6,5 @@ t
 tttf
 ttf
 ttttf
-tf
+tff
 t
