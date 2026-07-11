@@ -1,8 +1,2 @@
-f#Enterprises-agent-platforms
-f
-f
-g
-g
-g
-g
-g
+#Enterprises-agent-platforms
+
